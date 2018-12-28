@@ -1,0 +1,22 @@
+# Ignore file for Visual Studio
+*.suo
+*.rsp
+*.obj
+*.pdb
+*.vspscc
+*.bak
+*.lib
+[Bb]in
+[Dd]ebug*/
+obj/
+[Rr]elease*/
+*ReSharper*
+_ReSharper*/
+[Ll]ogs/
+.vs/
+project.lock.json
+SHFBInstaller_v2016.9.17.0.zip
+packages-dist/
+*.user
+backup_config.json
+*logs/
